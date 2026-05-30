@@ -1,2 +1,2 @@
 # KursPython
-## Informacje o repo
+## Informacje o języku python
