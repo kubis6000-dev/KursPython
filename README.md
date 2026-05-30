@@ -1,1 +1,2 @@
 # KursPython
+## Informacje o repo
